@@ -1,0 +1,28 @@
+name: Lago de mis sueños
+favicon: null
+layout_spectrum: 0.18358259368687868
+typography_spectrum: 0.5985105230938643
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3591511766426265
+  lightness: 0.8438909882679582
+  saturation: 0.453302257694304
+  rhythmicContrast: 0.255480119260028
+purpose: []
