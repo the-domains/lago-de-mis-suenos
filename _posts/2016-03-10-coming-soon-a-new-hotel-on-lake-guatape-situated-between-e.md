@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Coming soon! A new hotel on Lake Guatape, situated between El Peñol and Guatape right on the waterfront.'
-datePublished: '2016-03-11T22:02:39.009Z'
-dateModified: '2016-03-11T21:57:58.234Z'
-title: ''
+datePublished: '2016-03-11T22:06:22.841Z'
+dateModified: '2016-03-11T22:06:22.308Z'
+title: Lago de mis sueños
 author: []
 sourcePath: _posts/2016-03-10-coming-soon-a-new-hotel-on-lake-guatape-situated-between-e.md
 published: true
